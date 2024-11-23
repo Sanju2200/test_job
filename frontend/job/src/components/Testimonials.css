@@ -1,0 +1,13 @@
+.testimonials .card {
+    background: #dbc3c3;
+  }
+  
+  .testimonials .blockquote {
+    font-style: italic;
+  }
+  
+  .testimonials .card:hover {
+    box-shadow: 0 8px 15px rgba(63, 6, 6, 0.1);
+  }
+   
+

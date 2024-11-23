@@ -1,0 +1,29 @@
+.profile-section .card {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .profile-section img {
+    transition: transform 0.3s ease;
+  }
+  
+  .profile-section img:hover {
+    transform: scale(1.1);
+  }
+  
+  .profile-section .btn {
+    border-radius: 20px;
+  }
+  
+  .profile-section input,
+  .profile-section textarea {
+    border-radius: 10px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .profile-section input:focus,
+  .profile-section textarea:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
